@@ -44,4 +44,7 @@ Vlastně chceme.
 
 ## Navrhované změny
 
-... to be continued (5.11. 2016)
+- [zjednodušit získání bonusu za výšku (má vliv na Rychlost a Boj)](./návrhy/velikost_vs_výška.md)
+- [ujasnit rozdíl mezi bonusy k Boji na blízko a na dálku](./návrhy/číslo_boj_při_boji_na_blízko_a_na_dálku.md)
+
+... to be continued (6.11. 2016)
