@@ -6,7 +6,7 @@
 
 *Hledáš-li živou komunitu kolem RPG, mrkni na [rpgforum.cz](http://rpgforum.cz/forum/viewforum.php?f=238), nebo rovnou na [sekci pro DrD+](rpgforum.cz).*
 
-Tady najdeš pouze studii *Jak zjednodušit DrD+ a zachovat jeho silné, dospělé stránky.* Kompletní pravidla tu nehledej.
+**Tady najdeš pouze studii *Jak zjednodušit DrD+ a zachovat jeho silné, dospělé stránky.* Kompletní pravidla tu nehledej.**
 
 ### Pokud nevlastníš pravidla DrD, prosím, kup si je - podpoříš autory a budoucnost DrD
  - [obchod.altar.cz](http://obchod.altar.cz/)
@@ -37,8 +37,8 @@ Vlastně chceme.
 ### Chce to revizi
 
 - mnoha lety hraní podle prvnotních DrD jsme objevili krásu jednoduchosti
- -během stejně dlouhého hraní podle DrD+ jsme se našli v drsném životě únavy a letitých zranění
- - a při [přenášení pravidel do programu](https://packagist.org/search/?q=drd) jsem zjistil, jak nekonzistentní a poslepovaná pravidla DrD+ vlastně jsou
+- během stejně dlouhého hraní podle DrD+ jsme se našli v drsném životě únavy a letitých zranění
+- a při [přenášení pravidel do programu](https://packagist.org/search/?q=drd) jsem zjistil, jak nekonzistentní a poslepovaná pravidla DrD+ vlastně jsou
 
 *Mají výborný základ, dobré nápady, ale jsou autem na vodík co se rozjíždí šlapáním a brzdí padákem.*
 
