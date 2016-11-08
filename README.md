@@ -10,6 +10,8 @@
 
 ### Pokud nevlastníš pravidla DrD, prosím, kup si je - podpoříš autory a budoucnost DrD
  - [obchod.altar.cz](http://obchod.altar.cz/)
+ 
+---
 
 #### Z lásky k ošklivému káčátku
 
