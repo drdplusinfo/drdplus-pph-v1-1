@@ -46,5 +46,6 @@ Vlastně chceme.
 
 - [zjednodušit získání bonusu za výšku (má vliv na Rychlost a Boj)](./návrhy/velikost_vs_výška.md)
 - [ujasnit rozdíl mezi bonusy k Boji na blízko a na dálku](./návrhy/číslo_boj_při_boji_na_blízko_a_na_dálku.md)
+- [štít_považovat_za_pouhou_překážku_pokud_není_přímo_použit_k_obraně](./návrhy/příliš_mocné_pasivní_krytí_štítem.md)
 
 ... to be continued (8.11. 2016)
