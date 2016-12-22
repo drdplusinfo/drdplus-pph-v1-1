@@ -1,4 +1,4 @@
-### Nepoužitý štít je kus prkna, nic víc
+### Nepoužitý štít je (měl by být) kus prkna, nic víc
 
 #### PPH verze 1.0, edice B
 
