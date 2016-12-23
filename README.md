@@ -2,7 +2,7 @@
 
 *Pokud hledáš prostě jen nejnovější verzi Dračího doupětě, zkus [DrD 2](http://www.drd2.cz/)*
 
-*Pokud jsi techničtější, neadí ti hodně pravidel a chceš dotek reality, zkus [DrD+](http://www.altar.cz/drdplus/).*
+*Pokud jsi techničtější, nevadí ti hodně pravidel a chceš dotek reality, zkus [DrD+](http://www.altar.cz/drdplus/).*
 
 *Hledáš-li živou komunitu kolem RPG, mrkni na [rpgforum.cz](http://rpgforum.cz/forum/viewforum.php?f=238), nebo rovnou na [sekci pro DrD+](rpgforum.cz).*
 
@@ -17,7 +17,7 @@
 
 Pravidla DrD+ byla spásou a ránou pod pás zároveň. Jejich vydání mě zastihlo, po letech osobního dospívání, dychtivého něčeho dospělejšího a propracovanějšího než pravidla [původní, prvotní](http://www.altar.cz/drd/).
 
- - jsou drsná
+ - jsou drsná:
     - velký vliv únavy
     - smrtící těžká zranění
     - dlohodbá postižení těla i duše
@@ -28,7 +28,7 @@ Pravidla DrD+ byla spásou a ránou pod pás zároveň. Jejich vydání mě zast
 
 A jak už to bývá, když se příliš dlouho vyvíjí bez [řádného testování na hráčích](http://soch.cz/blog/management/lean/lean-metody-ve-vyvoji-softwaru/), a ještě k tomu "matfizáky" (odkaz na článek s historií DrD+ hledám...), výsledek je dokonalý. A složitý. Složitě dokonalý. Dokonale složitý.
 
- - a proto neměla úspěch
+ - a proto neměla úspěch:
     - přepočet bonusů na hodnoty podle matematické funkce, respektive obrovské převodní tabulky
     - několik vzájemně se ovlivňujících pravidel pro boj, takže když v zápalu boje popadnu klacek, dalších deset minut počítám nové parametry
 
@@ -50,6 +50,6 @@ Vlastně chceme.
 - [ujasnit rozdíl mezi bonusy k Boji na blízko a na dálku](./návrhy/číslo_boj_při_boji_na_blízko_a_na_dálku.md)
 - [štít považovat za pouhou překážku pokud není přímo použit k obraně](./návrhy/příliš_mocné_pasivní_krytí_štítem.md)
 - [přípravu na oslepení ujasnit pro ostré světlo a náhlou tmu](./návrhy/popis_přípravy_na_oslepení_vyvolává_otázky.md)
-- [ujasnit skřetí citlivost na světlo.md](./návrhy/skřetí_citlivost_na_světlo_je_matoucí.md)
+- [ujasnit a upřesnit skřetí citlivost na světlo](./návrhy/skřetí_citlivost_na_světlo_je_matoucí.md)
 
-... to be continued (22. 11. 2016)
+... to be continued (23. 12. 2016)
