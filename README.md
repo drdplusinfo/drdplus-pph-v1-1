@@ -49,6 +49,7 @@ Vlastně chceme.
 - [zjednodušit získání bonusu za výšku (má vliv na Rychlost a Boj)](./návrhy/velikost_vs_výška.md)
 - [ujasnit rozdíl mezi bonusy k Boji na blízko a na dálku](./návrhy/číslo_boj_při_boji_na_blízko_a_na_dálku.md)
 - [štít považovat za pouhou překážku pokud není přímo použit k obraně](./návrhy/příliš_mocné_pasivní_krytí_štítem.md)
-- [přípravu na oslepení ujasnit_pro_ostré_světlo_a_náhlou_tmu](./návrhy/popis_přípravy_na_oslepení_vyvolává_otázky.md)
+- [přípravu na oslepení ujasnit pro ostré světlo a náhlou tmu](./návrhy/popis_přípravy_na_oslepení_vyvolává_otázky.md)
+- [ujasnit skřetí citlivost na světlo.md](./návrhy/skřetí_citlivost_na_světlo_je_matoucí.md)
 
 ... to be continued (22. 11. 2016)
