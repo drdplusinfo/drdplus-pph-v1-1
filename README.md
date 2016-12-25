@@ -51,5 +51,6 @@ Vlastně chceme.
 - [štít považovat za pouhou překážku pokud není přímo použit k obraně](./návrhy/příliš_mocné_pasivní_krytí_štítem.md)
 - [přípravu na oslepení ujasnit pro ostré světlo a náhlou tmu](./návrhy/popis_přípravy_na_oslepení_vyvolává_otázky.md)
 - [ujasnit a upřesnit skřetí citlivost na světlo](./návrhy/skřetí_citlivost_na_světlo_je_matoucí.md)
+- [ujasnit neprůhlednost a opravit příklad s ní](./opravy/příklad_s_neprůhledností_má_chybu.md)
 
-... to be continued (23. 12. 2016)
+... to be continued (25. 12. 2016)
