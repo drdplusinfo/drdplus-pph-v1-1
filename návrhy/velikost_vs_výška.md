@@ -2,7 +2,7 @@
 
 #### PPH verze 1.0, edice B
 
-**Tabulka velikosti a hmotnosti ras**, 
+**Tabulka velikosti a hmotnosti ras**
 
 > _Sloupce Výška a Hmotnost mají jen **orientační** význam... Sloupec **Velikost** pak představuje nejdůležitější údaj,
 > číslo, se kterým budeš skutečně ve hře počítat._
