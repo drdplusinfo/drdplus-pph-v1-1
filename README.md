@@ -23,6 +23,7 @@ Pravidla DrD+ byla spásou a ránou pod pás zároveň. Jejich vydání mě zast
     - dlohodbá postižení těla i duše
     - obtížná léčba
     - náročné ovládnutí zbraně
+    - důležité kvalitní osvětlení
     - ...
  - jsou postavena na přírodních zákonech, respektive na [exponenciele](http://www.fi.muni.cz/~hrebicek/maple/mws7/elemfce/elemfce1.html#MapleAutoBookmark12)
 
@@ -43,6 +44,8 @@ Vlastně chceme.
 - a při [přenášení pravidel do programu](https://packagist.org/search/?q=drd) jsem zjistil, jak nekonzistentní a poslepovaná pravidla DrD+ vlastně jsou
 
 *Mají výborný základ, dobré nápady, ale jsou autem na vodík co se rozjíždí šlapáním a brzdí padákem.*
+
+> Dobré pravidlo ukazuje směr, špatné pravidlo zakazuje směr
 
 ## Navrhované změny
 
