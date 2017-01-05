@@ -45,7 +45,7 @@ Vlastně chceme.
 
 *Mají výborný základ, dobré nápady, ale jsou autem na vodík co se rozjíždí šlapáním a brzdí padákem.*
 
-> Dobré pravidlo ukazuje směr, špatné pravidlo zakazuje směr
+> Dobré pravidlo směr ukazuje, špatné zakazuje.
 
 ## Navrhované změny
 
