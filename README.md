@@ -27,7 +27,7 @@ Pravidla DrD+ byla spásou a ránou pod pás zároveň. Jejich vydání mě zast
     - ...
  - jsou postavena na přírodních zákonech, respektive na [exponenciele](http://www.fi.muni.cz/~hrebicek/maple/mws7/elemfce/elemfce1.html#MapleAutoBookmark12)
 
-A jak už to bývá, když se příliš dlouho vyvíjí bez [řádného testování na hráčích](http://soch.cz/blog/management/lean/lean-metody-ve-vyvoji-softwaru/), a ještě k tomu "matfizáky" (odkaz na článek s historií DrD+ hledám...), výsledek je dokonalý. A složitý. Složitě dokonalý. Dokonale složitý.
+A jak už to bývá, když se příliš dlouho vyvíjí bez [řádného testování na lidech](http://soch.cz/blog/management/lean/lean-metody-ve-vyvoji-softwaru/), a ještě k tomu "matfizáky" (odkaz na článek s historií DrD+ hledám...), výsledek je dokonalý. A složitý. Složitě dokonalý. Dokonale složitý.
 
  - a proto neměla úspěch:
     - přepočet bonusů na hodnoty podle matematické funkce, respektive obrovské převodní tabulky
