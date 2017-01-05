@@ -16,3 +16,5 @@ Proto větu navrhujeme zrušit a přidat nový popis až za vzoreček, protože 
 
 > Jak je vidět, pro Kontrast 1 je postih vždy nulový a k oslnění tak může dojít pouze pokud je rozdíl
 *Kvalit osvětlení* alespoň 20, takže kontrast je 2 a při nezvládnutém hodu na Sms 2 je postih teprve patrný a to 1).
+
+(4. 1. 2017)

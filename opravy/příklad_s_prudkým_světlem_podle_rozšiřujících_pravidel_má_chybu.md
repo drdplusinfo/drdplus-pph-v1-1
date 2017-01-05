@@ -24,4 +24,20 @@ ras by byly o jedna větší.
 
 Pokud použijeme zaokrouhlování dolů, tak vyjdou postihy pro všechny rasy kromě trpaslíka.
 
+###### Řešení
 Považujeme proto postih pro trpaslíky za chybně spočítaný, správně má být **-3**.
+
+### Nedostatečný příklad
+> *Opakování je matkou moudrosti*
+
+Navíc v příkladu chybí zopakování, že postih -20 je sice číselně správně, ale trpaslíci a skřeti budou nejspíše moci
+používat svoji infravizi.
+Navrhujeme proto za větu
+> Vidíme tedy, že po přizpůsobení na okolní podmínky budou mít v úplné tmě (Kvalita osvětlení −200) všechny rasy postih −20.
+
+přidat 
+
+> Připomínáme, že pro trpaslíky a skřety bude postih nejspíš "pouze" -17, pokud budou moci použít jejich
+[infravidění](https://pph.drdplus.jaroslavtyc.com/#infravideni).
+
+(5. 1. 2016)

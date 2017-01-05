@@ -33,4 +33,4 @@ Bonus za Výšku si můžeš započítat pouze pro boj na blízko, stejně jako 
 >
 > Taková změna dá velkou výhodu všem střelcům a kouzelníkům, je třeba to promyslet.
 
-... to be continued (8.11. 2016)
+(8. 11. 2016)

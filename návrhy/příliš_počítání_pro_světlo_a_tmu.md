@@ -26,4 +26,4 @@ a bude mnohem snazší **začít** hrát s nedostatečným osvětlením.
 Obdobně přidat tabulku s běžnými kombinacemi původního a nového osvětlení (tmavá chodba s lucernou a nově
 kouzelnické světlo o síle vatry) a výsledný postih (s kontrastem v závorce).
 
-... to be continued (26.12. 2016)
+(26. 12. 2016)

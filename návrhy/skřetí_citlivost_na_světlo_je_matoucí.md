@@ -18,4 +18,4 @@ protože si na něj nemohou zvyknout.
 > Tento postih se připočítává k případnému běžnému Oslnění, pokud bylo způsobeno
 světlem s kvalitou alespoň ostrého denního světla.
 
-... to be continued (23. 12. 2016)
+(23. 12. 2016)

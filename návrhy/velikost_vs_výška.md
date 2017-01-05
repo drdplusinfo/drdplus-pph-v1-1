@@ -31,4 +31,4 @@ a převedení této velikosti na **bonus** podle tabulky vzdálenosti (strana 16
  - za chybu považujeme, že se Výška (její bonus) počítá do Boje vždy
     - jsme přesvědčeni, že [to má vliv jen při boji na blízko](./číslo_boj_při_boji_na_blízko_a_na_dálku.md)
     
-... to be continued (6.11. 2016)
+(6. 11. 2016)

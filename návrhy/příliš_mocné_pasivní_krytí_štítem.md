@@ -37,3 +37,5 @@ za text
 > Proti střelbě kryje štít i pasivně jako jakákoli jiná překážka. Pokud na tebe někdo střílí a ty se štítem nebráníš,
 pouze ho máš u sebe, podívej se na Tabulku krytů na straně 104, jaký kryt ti štít coby obyčejná překážka dává.
 Poslední slovo v tom, jak velký kus těla ti štít proti střelci schovává, má samozřejmě PJ.
+
+(23. 12. 2016)

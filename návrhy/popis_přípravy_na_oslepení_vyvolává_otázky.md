@@ -22,4 +22,4 @@ upřesnit na:
 > V některých situacích může postava náhlou změnu Kvality čekat. Jestliže stihne si krýt oči či proti ostrému světlu,
 nebo v přípravě na náhlou tmu alespoň deset kol si oči zatmívat, tak se pro ni případný Kontrast snižuje o 6.
 
-... to be continued (22. 12. 2016)
+(22. 12. 2016)

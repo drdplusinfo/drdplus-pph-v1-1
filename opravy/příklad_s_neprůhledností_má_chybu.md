@@ -25,4 +25,4 @@ ale už hůře ve světě DrD plném loučí a střílen.
 
 *řešení: Uvést v příkladu kde je zdroj světla, aby bylo jasnější, proč se počítá Neprůhlednost (či špíše průsvitnost) u země.*
 
-... to be continued (25. 12. 2016)
+(25. 12. 2016)
