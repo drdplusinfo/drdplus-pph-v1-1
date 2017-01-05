@@ -3,7 +3,7 @@
 #### PPH verze 1.0, edice B
 
 Na stránce 130 vpravo je
-[výčet ras a jejich postihů při ostrém světle s kontrastem 80](https://pph.drdplus.jaroslavtyc.com/#postih_za_uplnou_tmu).
+[výčet ras a jejich postihů při ostrém světle s kontrastem 80](https://pph.drdplus.jaroslavtyc.com/#postihy_pri_extremne_ostrem_magickem_svetle).
 
 > Naopak při extrémně ostrém magickém světle s Kvalitou 80 budou mít lidé a hobiti postih −2, elfové a krollové −3,
 trpaslíci −4 a skřeti −5.
