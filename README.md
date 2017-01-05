@@ -51,9 +51,9 @@ Vlastně chceme.
 
 ### Opravy
 
-- [matoucí popis rozdílu osvětlení způsobující oslnění.md](./opravy/matoucí_popis_rozdílu_osvětlení_způsobující_oslnění.md)
+- [matoucí popis rozdílu osvětlení způsobující oslnění](./opravy/matoucí_popis_rozdílu_osvětlení_způsobující_oslnění.md)
 - [ujasnit neprůhlednost a opravit příklad s ní](./opravy/příklad_s_neprůhledností_má_chybu.md)
-- [opravit postih pro trpaslíka za prudkého světla (-3 namísto -4)](./opravy/příklad_s_prudkým_světlem_podle_rozšiřujících_pravidel_má_chybu.md)
+- [opravit příklad s postihy za prudkého světla](./opravy/příklad_s_prudkým_světlem_podle_rozšiřujících_pravidel_má_chybu.md)
 
 ### Úpravy
 
@@ -64,4 +64,4 @@ Vlastně chceme.
 - [ujasnit a upřesnit skřetí citlivost na světlo](./návrhy/skřetí_citlivost_na_světlo_je_matoucí.md)
 - [snížit laťku obtížnosti pro nedostatečné osvětlení](./návrhy/příliš_počítání_pro_světlo_a_tmu.md)
 
-... to be continued (26. 12. 2016)
+... to be continued (5. 1. 2016)
