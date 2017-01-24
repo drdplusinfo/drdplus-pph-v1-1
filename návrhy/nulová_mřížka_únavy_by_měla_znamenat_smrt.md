@@ -26,11 +26,10 @@ a nedovoluje koťátkům umřít únavou, ba ani být mírně unavené nebo v be
 Držíme koťátku Mrrr palce aby mělo štěstí v kostkách a navrhujeme **pravidlo s jediným možným bodem únavy zrušit**.
 
 A pro úplnost příklad s koťákem Mrrr:
-> Příklad: Řekněme, že malé koťátko Mrrr má Výdrž −29,
-  a tedy podle Tabulky zranění a únavy má mít Mez únavy
-  2/6 bodů. Hodí si proto 1k6. Pokud padne na kostce 1
-  nebo 2, bude mít jeho mřížka únavy 3 řádky po 1 políč-
-  ku, pokud padne vyšší číslo, bude mít pouze 1 políčko
-  únavy.
+> Příklad: Řekněme, že malé koťátko Mrrr má Výdrž −29, a tedy podle Tabulky zranění a únavy má mít Mez únavy 2/6 bodů.
+Hodí si proto 1k6. Pokud padne na kostce 1 nebo 2, bude mít jeho mřížka únavy 3 řádky po 1 políčku,
+pokud padne vyšší číslo, bude mít pouze 1 políčko únavy.
+  
+*Poznámka: povšimni si, že v pravidlech není ani zmínka o velmi malé Odolnosti a jediném políčku v Mřížce zranění.*
 
 (24. 1. 2017)
