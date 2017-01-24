@@ -63,5 +63,6 @@ Vlastně chceme.
 - [přípravu na oslepení ujasnit pro ostré světlo a náhlou tmu](./návrhy/popis_přípravy_na_oslepení_vyvolává_otázky.md)
 - [ujasnit a upřesnit skřetí citlivost na světlo](./návrhy/skřetí_citlivost_na_světlo_je_matoucí.md)
 - [snížit laťku obtížnosti pro nedostatečné osvětlení](./návrhy/příliš_počítání_pro_světlo_a_tmu.md)
+- [odstranit pravidlo povolující jediný bod únavy](./návrhy/nulová_mřížka_únavy_by_měla_znamenat_smrt.md)
 
-... to be continued (5. 1. 2016)
+... to be continued (24. 1. 2017)
