@@ -51,6 +51,7 @@ Vlastně chceme.
 
 ### Opravy
 
+- [chybí zmínka o atletice u pohybové rychlosti](./chybí_zmínka_o_atletice_u_pohybové_rychlosti.md)
 - [matoucí popis rozdílu osvětlení způsobující oslnění](./opravy/matoucí_popis_rozdílu_osvětlení_způsobující_oslnění.md)
 - [ujasnit neprůhlednost a opravit příklad s ní](./opravy/příklad_s_neprůhledností_má_chybu.md)
 - [opravit příklad s postihy za prudkého světla](./opravy/příklad_s_prudkým_světlem_podle_rozšiřujících_pravidel_má_chybu.md)
@@ -65,4 +66,4 @@ Vlastně chceme.
 - [snížit laťku obtížnosti pro nedostatečné osvětlení](./návrhy/příliš_počítání_pro_světlo_a_tmu.md)
 - [odstranit pravidlo povolující jediný bod únavy](./návrhy/nulová_mřížka_únavy_by_měla_znamenat_smrt.md)
 
-... to be continued (24. 1. 2017)
+... to be continued (28. 1. 2017)
