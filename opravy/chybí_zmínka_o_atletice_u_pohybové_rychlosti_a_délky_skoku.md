@@ -1,4 +1,4 @@
-### U výpočtu Pohybové rychlosti by měla být uvedena také Atletika
+### U výpočtu Pohybové rychlosti a Délky skoku by měla být uvedena také Atletika
 
 #### PPH verze 1.0, edice B
 
@@ -14,3 +14,11 @@ by vzorec měl upozorňovat na bonus z atletiky.
 Navrhujeme tedy úpravu
 
 > Pohybová rychlost = Rch/2 + bonus podle druhu pohybu  [+ Atletika při běhu a sprintu]
+
+Podobné je to s Délkou (výškou) skoku ze strany 119 v pravém sloupci, ke které se opět přičítá Atletika a opět to není
+ve vzorci uvedeno
+> Délka (výška) skoku = Rch/2 + bonus + 1k6
+
+Navrhujeme tedy úpravu
+
+> Délka (výška) skoku = Rch/2 + bonus + 1k6  [+ Atletika]
