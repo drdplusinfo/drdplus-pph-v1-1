@@ -58,12 +58,14 @@ Vlastně chceme.
 
 ### Úpravy
 
-- [zjednodušit získání bonusu za výšku (má vliv na Rychlost a Boj)](./návrhy/velikost_vs_výška.md)
-- [ujasnit rozdíl mezi bonusy k Boji na blízko a na dálku](./návrhy/číslo_boj_při_boji_na_blízko_a_na_dálku.md)
-- [štít považovat za pouhou překážku pokud není přímo použit k obraně](./návrhy/příliš_mocné_pasivní_krytí_štítem.md)
-- [přípravu na oslepení ujasnit pro ostré světlo a náhlou tmu](./návrhy/popis_přípravy_na_oslepení_vyvolává_otázky.md)
-- [ujasnit a upřesnit skřetí citlivost na světlo](./návrhy/skřetí_citlivost_na_světlo_je_matoucí.md)
-- [snížit laťku obtížnosti pro nedostatečné osvětlení](./návrhy/příliš_počítání_pro_světlo_a_tmu.md)
-- [odstranit pravidlo povolující jediný bod únavy](./návrhy/nulová_mřížka_únavy_by_měla_znamenat_smrt.md)
+- [zjednodušit získání bonusu za výšku (má vliv na Rychlost a Boj)](úpravy/velikost_vs_výška.md)
+- [ujasnit rozdíl mezi bonusy k Boji na blízko a na dálku](úpravy/číslo_boj_při_boji_na_blízko_a_na_dálku.md)
+- [štít považovat za pouhou překážku pokud není přímo použit k obraně](úpravy/příliš_mocné_pasivní_krytí_štítem.md)
+- [přípravu na oslepení ujasnit pro ostré světlo a náhlou tmu](úpravy/popis_přípravy_na_oslepení_vyvolává_otázky.md)
+- [ujasnit a upřesnit skřetí citlivost na světlo](úpravy/skřetí_citlivost_na_světlo_je_matoucí.md)
+- [snížit laťku obtížnosti pro nedostatečné osvětlení](úpravy/příliš_počítání_pro_světlo_a_tmu.md)
+- [odstranit pravidlo povolující jediný bod únavy](úpravy/nulová_mřížka_únavy_by_měla_znamenat_smrt.md)
+- [ke zranění při pádu či skoku může dojít i ze stoje](./opravy/zranění_při_pádu_či_skoku_může_být_i_ze_stoje.md)
+- [ujasnit utlumení_pádu zbrojí](./opravy/snížení_zranění_z_pádu_zbrojí_by_mělo_být_v_tabulce.md)
 
-... to be continued (28. 1. 2017)
+... to be continued (1. 2. 2017)
