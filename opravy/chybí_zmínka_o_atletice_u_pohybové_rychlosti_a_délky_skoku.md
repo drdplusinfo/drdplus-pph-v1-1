@@ -1,4 +1,4 @@
-### U výpočtu Pohybové rychlosti a Délky skoku by měla být uvedena také Atletika
+### U výpočtu Pohybové rychlosti, Délky skoku a Zranění z pádu by měla být uvedena také Atletika
 
 #### PPH verze 1.0, edice B
 
@@ -13,7 +13,9 @@ by vzorec měl upozorňovat na bonus z atletiky.
 
 Navrhujeme tedy úpravu
 
-> Pohybová rychlost = Rch/2 + bonus podle druhu pohybu  [+ Atletika při běhu a sprintu]
+> Pohybová rychlost = Rch/2 + bonus podle druhu pohybu [+ Atletika při běhu a sprintu]
+
+---
 
 Podobné je to s Délkou (výškou) skoku ze strany 119 v pravém sloupci, ke které se opět přičítá Atletika a opět to není
 ve vzorci uvedeno
@@ -21,4 +23,14 @@ ve vzorci uvedeno
 
 Navrhujeme tedy úpravu
 
-> Délka (výška) skoku = Rch/2 + bonus + 1k6  [+ Atletika]
+> Délka (výška) skoku = Rch/2 + bonus + 1k6 [+ Atletika]
+
+---
+
+A nakonec chybí zmínka o Atletice u výpočtu zranění z pádu či skoku na straně 119 vpravo
+> Body zranění = τ(Síla zranění) − τ(Obr)
+
+kde se Atletika přičítá k Obratnosti pro snížení výsledného zranění.
+
+Navrhujeme obdobnou úpravu
+> Body zranění = τ(Síla zranění) − τ(Obr [+ Atletika])
