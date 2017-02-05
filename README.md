@@ -55,6 +55,7 @@ Vlastně chceme.
 - [matoucí popis rozdílu osvětlení způsobující oslnění](./opravy/matoucí_popis_rozdílu_osvětlení_způsobující_oslnění.md)
 - [ujasnit neprůhlednost a opravit příklad s ní](./opravy/příklad_s_neprůhledností_má_chybu.md)
 - [opravit příklad s postihy za prudkého světla](./opravy/příklad_s_prudkým_světlem_podle_rozšiřujících_pravidel_má_chybu.md)
+- [boj se dvěma zbraněmi má neúplné popisy na více místech](./opravy/boj_se_dvěma_zbraněmi_by_mel_mít_popis_na_jednom_místě.md)
 
 ### Úpravy
 
