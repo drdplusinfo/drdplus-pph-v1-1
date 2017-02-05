@@ -69,4 +69,4 @@ Vlastně chceme.
 - [ke zranění při pádu či skoku může dojít i ze stoje](./opravy/zranění_při_pádu_či_skoku_může_být_i_ze_stoje.md)
 - [ujasnit utlumení_pádu zbrojí](./opravy/snížení_zranění_z_pádu_zbrojí_by_mělo_být_v_tabulce.md)
 
-... to be continued (1. 2. 2017)
+... to be continued (5. 2. 2017)
