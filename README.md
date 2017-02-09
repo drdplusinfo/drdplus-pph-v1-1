@@ -25,7 +25,7 @@ Pravidla DrD+ byla spásou a ránou pod pás zároveň. Jejich vydání mě zast
     - náročné ovládnutí zbraně
     - důležité kvalitní osvětlení
     - ...
- - jsou postavena na přírodních zákonech, respektive na [exponenciele](http://www.fi.muni.cz/~hrebicek/maple/mws7/elemfce/elemfce1.html#MapleAutoBookmark12)
+ - jsou postavena na přírodních zákonech, respektive na logaritmu (bonus z všemocné Tabulky zranění a únavy = 20xlog(hodnota)-10)
 
 A jak už to bývá, když se příliš dlouho vyvíjí bez [řádného testování na lidech](http://soch.cz/blog/management/lean/lean-metody-ve-vyvoji-softwaru/), a ještě k tomu "matfizáky" (odkaz na článek s historií DrD+ hledám...), výsledek je dokonalý. A složitý. Složitě dokonalý. Dokonale složitý.
 
