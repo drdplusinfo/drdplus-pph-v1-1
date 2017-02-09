@@ -33,7 +33,7 @@ A jak už to bývá, když se příliš dlouho vyvíjí bez [řádného testová
     - přepočet bonusů na hodnoty podle matematické funkce, respektive obrovské převodní tabulky
     - několik vzájemně se ovlivňujících pravidel pro boj, takže když v zápalu boje popadnu klacek, dalších deset minut počítám nové parametry
 
-Přesto podle nich doteď (5.11. 2016) hrajeme a nechceme jinak.
+Přesto podle nich doteď hrajeme a nechceme jinak.
 
 Vlastně chceme.
 
