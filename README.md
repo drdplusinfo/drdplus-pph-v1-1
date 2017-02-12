@@ -56,6 +56,7 @@ Vlastně chceme.
 - [ujasnit neprůhlednost a opravit příklad s ní](./opravy/příklad_s_neprůhledností_má_chybu.md)
 - [opravit příklad s postihy za prudkého světla](./opravy/příklad_s_prudkým_světlem_podle_rozšiřujících_pravidel_má_chybu.md)
 - [boj se dvěma zbraněmi má neúplné popisy na více místech](./opravy/boj_se_dvěma_zbraněmi_by_mel_mít_popis_na_jednom_místě.md)
+- [zmínka o zlepšeném smyslu při důkladném hledání není ve vzorečku](./opravy/zmínka_o_zlepšeném_smyslu_při_důkladném_hledání_není_ve_vzorečku.md)
 
 ### Úpravy
 
@@ -69,4 +70,4 @@ Vlastně chceme.
 - [ke zranění při pádu či skoku může dojít i ze stoje](./opravy/zranění_při_pádu_či_skoku_může_být_i_ze_stoje.md)
 - [ujasnit utlumení_pádu zbrojí](./opravy/snížení_zranění_z_pádu_zbrojí_by_mělo_být_v_tabulce.md)
 
-... to be continued (5. 2. 2017)
+... to be continued (12. 2. 2017)
