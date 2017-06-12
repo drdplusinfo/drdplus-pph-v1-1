@@ -51,7 +51,7 @@ Vlastně chceme.
 
 ### Opravy
 
-- [chybí zmínka o atletice u pohybové rychlosti](./chybí_zmínka_o_atletice_u_pohybové_rychlosti.md)
+- [chybí zmínka o atletice u pohybové rychlosti](./opravy/chybí_zmínka_o_atletice_u_pohybové_rychlosti_a_délky_skoku.md)
 - [matoucí popis rozdílu osvětlení způsobující oslnění](./opravy/matoucí_popis_rozdílu_osvětlení_způsobující_oslnění.md)
 - [ujasnit neprůhlednost a opravit příklad s ní](./opravy/příklad_s_neprůhledností_má_chybu.md)
 - [opravit příklad s postihy za prudkého světla](./opravy/příklad_s_prudkým_světlem_podle_rozšiřujících_pravidel_má_chybu.md)
@@ -68,8 +68,9 @@ Vlastně chceme.
 - [ujasnit a upřesnit skřetí citlivost na světlo](úpravy/skřetí_citlivost_na_světlo_je_matoucí.md)
 - [snížit laťku obtížnosti pro nedostatečné osvětlení](úpravy/příliš_počítání_pro_světlo_a_tmu.md)
 - [odstranit pravidlo povolující jediný bod únavy](úpravy/nulová_mřížka_únavy_by_měla_znamenat_smrt.md)
-- [ke zranění při pádu či skoku může dojít i ze stoje](./opravy/zranění_při_pádu_či_skoku_může_být_i_ze_stoje.md)
-- [ujasnit utlumení_pádu zbrojí](./opravy/snížení_zranění_z_pádu_zbrojí_by_mělo_být_v_tabulce.md)
-- [význačný smysl by měl být použitelný i při automatickém a zběžném hledání](./opravy/význačný_smysl_použitelný_i_při_automatickém_a_zběžném_hledání.md)
+- [ke zranění při pádu či skoku může dojít i ze stoje](./úpravy/zranění_při_pádu_či_skoku_může_být_i_ze_stoje.md)
+- [ujasnit utlumení pádu zbrojí](./úpravy/snížení_zranění_z_pádu_zbrojí_by_mělo_být_pevněji_dané.md)
+- [význačný smysl by měl být použitelný i při automatickém a zběžném hledání](./úpravy/význačný_smysl_použitelný_i_při_automatickém_a_zběžném_hledání.md)
+- [zoologie by měla dávat bonus k obraně, nikoli pouze ke krytu](./úpravy/zoologie_by_měla_dávat_bonus_k_obraně_namísto_pouhého_krytu.md)
 
-... to be continued (15. 2. 2017)
+... to be continued (12. 6. 2017)
