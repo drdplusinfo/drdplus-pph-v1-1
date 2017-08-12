@@ -10,7 +10,7 @@ Důvodem je výpočet postihu za oslnění
 >  - méně	~	Oslnění = Kontrast − 1
 >  - Kontrast	~	Oslnění = Kontrast − 7
 
-kdy je při rozdílu osvětlení mezi 10 a 19 kontrast pouze 1 a tudíž je výsledný postih nulový i když nezvládneme past na smysly.
+kdy je při rozdílu osvětlení mezi 10 a 19 kontrast pouze 1 a tudíž je výsledný postih nulový **i když nezvládneme past na smysly**.
 
 Proto větu navrhujeme zrušit a přidat nový popis až za vzoreček, protože teprve tam se můžeme rozepsat o důvodu:
 
@@ -18,3 +18,5 @@ Proto větu navrhujeme zrušit a přidat nový popis až za vzoreček, protože 
 *Kvalit osvětlení* alespoň 20, takže kontrast je 2 a při nezvládnutém hodu na Sms 2 je postih teprve patrný a to 1).
 
 (4. 1. 2017)
+
+##### [ZAPRACOVÁNO](https://pph.drdplus.info/#oslneni_az_pri_zmene_alespon)
