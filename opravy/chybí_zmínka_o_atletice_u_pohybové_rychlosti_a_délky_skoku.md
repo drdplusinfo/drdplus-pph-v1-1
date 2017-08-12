@@ -15,6 +15,8 @@ Navrhujeme tedy úpravu
 
 > Pohybová rychlost = Rch/2 + bonus podle druhu pohybu [+ Atletika při běhu a sprintu]
 
+##### [ZAPRACOVÁNO](https://pph.drdplus.info/#vypocet_pohybove_rychlosti)
+
 ---
 
 Podobné je to s Délkou (výškou) skoku ze strany 119 v pravém sloupci, ke které se opět přičítá Atletika a opět to není
@@ -25,6 +27,8 @@ Navrhujeme tedy úpravu
 
 > Délka (výška) skoku = Rch/2 + bonus + 1k6 [+ Atletika]
 
+##### [ZAPRACOVÁNO](https://pph.drdplus.info/#vypocet_delky_a_vysky_skoku)
+
 ---
 
 A nakonec chybí zmínka o Atletice u výpočtu zranění z pádu či skoku na straně 119 vpravo
@@ -34,3 +38,5 @@ kde se Atletika přičítá k Obratnosti pro snížení výsledného zranění.
 
 Navrhujeme obdobnou úpravu
 > Body zranění = τ(Síla zranění) − τ(Obr [+ Atletika])
+
+##### [ZAPRACOVÁNO](https://pph.drdplus.info/#vypocet_zraneni_pri_padu)
