@@ -2,7 +2,7 @@
 
 #### PPH verze 1.0, edice B
 
-Na straně 108 je jako součást *Dalších bojových akcí* dopodrobna popsán Boj se dvěma zbraněmi včetně informace,
+Na straně 108 je jako součást *Dalších bojových akcí* dopodrobna popsán *Boj se dvěma zbraněmi* včetně informace,
  že je to dovednost. Chybí tu ale poznámka, že tato dovednost nemůže být vyšší než nejvyšší dovednost *Boj s...*
  
 A na straně 145 v seznamu dovedností *Boj s...* zase chybí podrobný popis této dovednosti a dokonce zde není ani odkaz
