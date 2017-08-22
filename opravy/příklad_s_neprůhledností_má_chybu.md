@@ -4,7 +4,8 @@
 
 Na stránce 129 v levém sloupci v kapitole
 [*Neprůhledné prostředí*](https://pph.drdplus.jaroslavtyc.com/#nepruhledne_prostredi) je popis tak kusý,
-že jeden aby se perfektně orientoval v převodech bonusů a hodnot a ještě byl na to odpočatý a dopíjející kávu na bystré smysly.
+že jeden aby se perfektně orientoval v převodech bonusů a hodnot a ještě byl na to odpočatý a právě dopíjející druhou
+kávu na zbystření smyslů.
 
 *řešení: Více se rozepsat při převodech (berličky).*
 
