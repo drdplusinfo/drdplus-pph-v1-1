@@ -6,7 +6,7 @@ DrD+ je dobrá zkratka, protože DrD je dlouhými lety zažité a ono + je od z�
 
 ## Nehas co tě nepálí
 To je velice dobrá rada, ale trochu si jí ještě ujasníme pro náš případ zkratek. Když tě něco nepálí, tak tě to nezajímá a když tě něco nezajímá, tak nemáš chuť s tím něco dělat. A když se k tomu ještě přidá fakt, že člověk nesnáší změny, nebo spíše nemá rád nic, co mu sníží pohodlí, tak se může stát, že právě **tobě** zkratky vyhovují a bude tě rozčilovat, že to někdo mění.
-Naštěstí to není tak černobílé - v DrD+ jetakové množství zkratek, že spoustu z nich si ani ty, génius na slovo vzatý, nepamatuješ a u těch, na které sis zvykl, nebudeme měnit význam, ale z tvého úhlu pohledu prodloužíme název.
+Naštěstí to není tak černobílé - v DrD+ je takové množství zkratek, že spoustu z nich si ani ty, génius na slovo vzatý, nepamatuješ a u těch, na které sis zvykl, nebudeme měnit význam, ale z tvého úhlu pohledu prodloužíme název.
 
 A proč? Protože nás to pálí.
 
